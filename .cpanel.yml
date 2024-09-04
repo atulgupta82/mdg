@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home2/a1665v2g/mdg/
+    - export DEPLOYPATH=/home2/a1665v2g/public_html/mdg/
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
